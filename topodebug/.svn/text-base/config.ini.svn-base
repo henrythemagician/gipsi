@@ -1,0 +1,7 @@
+lang=1
+splash=0
+protocol=udp
+port=20000
+background=230,230,230
+nodes=204,204,204
+text=34,34,34

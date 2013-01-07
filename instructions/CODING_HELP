@@ -1,0 +1,33 @@
+
+1. Singleton
+
+Ensure a class has only one instance, and provide a global point of access to it.
+http://c2.com/cgi/wiki?SingletonPattern
+
+2. Socket Address
+Definition of socket address:
+http://www.linuxhowtos.org/C_C++/socket.htm
+
+3. channel of RTP
+rtp_stream_init_channel
+
+
+4. List
+http://www.yolinux.com/TUTORIALS/LinuxTutorialC++STL.html
+http://msdn.microsoft.com/en-us/library/k1dsa6se(v=vs.71).aspx
+
+5. Add library to QT:
+ right click inside .pro file, choose Add Library
+
+6. BUILD Environment need to be modified accordingly if want to test inside QTCreator
+
+7. To get rid of the gnome keyring stuff:
+rm ~/.gnome2/keyrings/default.keyring	
+
+
+8. code for receiving in MP4Client
+
+9.NAT passthrough
+http://www.cnblogs.com/epan/articles/98295.html
+
+10.Try dynamic cast and boost thread

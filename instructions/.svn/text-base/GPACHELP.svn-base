@@ -1,0 +1,21 @@
+Examples:
+
+1. Prepare any file for streaming
+MP4Box -add origin.mp4 newFile.mp4
+
+2. Prepare srt subtitles
+MP4Box -ttxt subtitles.srt
+
+3. Add subtitles to file
+MP4Box -add newFile.mp4 -add subtitles.ttxt toBeStreamed.mp4
+
+Prepare any mp4 for ISMA streaming: MP4Box -isma -hint myfile.mp4
+Prepare an mp4 optimized for server: MP4Box -hint -copy -tight myfile.mp4
+Prepare a complex mp4 with BIFS for streaming: MP4Box -ocr -iod -hint myfile.mp4
+Prepare any 3GP/MP4 for safe streaming: MP4Box -nosys -hint myfile.3gp
+
+
+
+1. setting to optimize video performance
+[Compositor]
+DrawMode=immediate

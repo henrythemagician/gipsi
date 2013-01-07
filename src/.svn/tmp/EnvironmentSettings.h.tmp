@@ -1,0 +1,60 @@
+/*
+ *			GIPSI - GPAC Interactive Peer-to-peer Streaming plug-In
+ *
+ *  @author Haoyun Shen, Junaid Ali-Shah
+ *  @version 1.0
+ *
+ *
+ *  This file is part of GIPSI application, a p2p streaming plug-in for GPAC
+ *
+ *  This header file describes different variables.
+ *
+ */
+
+#ifndef ENVIRONMENTSETTINGS_H
+#define ENVIRONMENTSETTINGS_H
+#include <string.h>
+#include <string>
+using namespace std;
+
+/*
+#define SDPPORT 3000
+#define SIGNALING_PORT 40000
+#define MEDIAMTU 1462
+#define UPLIMIT 2
+#define LABMODE true
+*/
+
+#define CONNECT 1
+#define CONNECT_REPLY 2
+#define DROP 3
+#define DROP_ACCEPT 4
+#define DROP_REPLY 5
+#define DISCONNECT 6
+#define TOPOUPDATE 7
+#define TREEBALANCE 8
+#define KEEPALIVE 9
+
+struct EnvironmentalSettings {
+    int SDPPORT;
+    int SIGNALING_PORT;
+    int MEDIAMTU;
+    int UPLIMIT;
+    int DEBUGPORT;
+    float KEEPALIVE_INTERVAL;
+    float TIMEOUT_INTERVAL;
+    bool LABMODE;
+    string DEBUGSERVER;
+ }env_set;
+
+
+/*
+#define DEBUGSERVER "141.24.207.40"
+#define DEBUGPORT 20000
+#define KEEPALIVE_INTERVAL 4.0
+#define TIMEOUT_INTERVAL 5.0
+*/
+
+
+#endif // ENVIRONMENTSETTINGS_H
+

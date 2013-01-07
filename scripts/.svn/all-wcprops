@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/Projekte/P2Pgpac/!svn/ver/307/gipsi/scripts
+END
+telpc33-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc33-peer.sh
+END
+telpc34-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc34-peer.sh
+END
+telpc30-source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Projekte/P2Pgpac/!svn/ver/307/gipsi/scripts/telpc30-source.sh
+END
+telpc35-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc35-peer.sh
+END
+telpc36-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc36-peer.sh
+END
+telpc37-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc37-peer.sh
+END
+clean.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Projekte/P2Pgpac/!svn/ver/340/gipsi/scripts/clean.sh
+END
+demo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Projekte/P2Pgpac/!svn/ver/340/gipsi/scripts/demo.sh
+END
+startup-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/340/gipsi/scripts/startup-peer.sh
+END
+startup-source.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Projekte/P2Pgpac/!svn/ver/340/gipsi/scripts/startup-source.sh
+END
+debug-topology.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Projekte/P2Pgpac/!svn/ver/278/gipsi/scripts/debug-topology.sh
+END
+telpc30-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/307/gipsi/scripts/telpc30-peer.sh
+END
+teplc21-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/teplc21-peer.sh
+END
+telpc31-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc31-peer.sh
+END
+telpc32-peer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/306/gipsi/scripts/telpc32-peer.sh
+END

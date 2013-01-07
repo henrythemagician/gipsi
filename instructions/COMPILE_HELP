@@ -1,0 +1,37 @@
+GIPSI - GPAC Interactive Peer-to-peer Streaming plug-In
+
+
+GPAC:
+
+1)	Getting the GPAC source code from "svn co https://gpac.svn.sourceforge.net/svnroot/gpac/trunk/gpac gpac"
+2)	Installing dependencies:
+					sudo apt-get install zlib1g-dev xulrunner-1.9.2-dev libfreetype6-dev libjpeg62-dev 
+					libpng12-dev libopenjpeg-dev libmad0-dev libfaad-dev libogg-dev libvorbis-dev libtheora-dev 
+					liba52-0.7.4-dev libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libxv-dev 
+					x11proto-video-dev libgl1-mesa-dev x11proto-gl-dev linux-sound-base libxvidcore-dev 
+					libwxbase2.8-dev libwxgtk2.8-dev wx2.8-headers libssl-dev libjack-dev libasound2-dev 
+					libpulse-dev libsdl1.2-dev dvb-apps
+
+3)	Configuring GPAC using "./configure"
+4)	Installing GPAC using "make" and "sudo make Install"
+
+Note: If you are not root (or using the Lab) than you cann't use "sudo make install" you have to follow the steps given below:
+
+			a. export PATH=$PATH:/home/user/gpac-3614/bin/gcc/
+			b. export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/user/gpac-3614/bin/gcc/
+			c. if error like "libmozjs.so" not found, try:
+				make distclean
+				./configure --use-js=no
+				make
+
+
+5)	Modify the file /etc/ld.so.conf by adding the line "/usr/lib/xulrunner-1.9.2.18/" and running ldconfig from terminal to update the libraries using  		"sudo ldconfig" 
+************************************************************************************************************************************
+
+GIPSI:
+
+a)	Getting the source code from "svn co https://telsv2.prakinf.tu-ilmenau.de/svn/Projekte/P2Pgpac/ P2Pgpac" 
+b)	
+
+
+

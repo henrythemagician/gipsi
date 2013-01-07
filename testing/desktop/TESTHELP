@@ -1,0 +1,31 @@
+
+
+1.If you are logged in at lab, the testing can be done by ssh to multiple machines
+the command for ssh is, e.g.:
+	
+ssh -X hshen@telpc32.prakinf.tu-ilmenau.de 
+
+here you are connecting to telpc31
+after the connection, you need 
+
+
+2.for sources("servers"):
+export PATH=$PATH:/home/hshen/workspace/P2Pgpac/gpac/bin/gcc/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/hshen/workspace/P2Pgpac/gpac/bin/gcc/
+cd ~/workspace/P2Pgpac/gpac/applications/gipsi
+./gipsi cmd src /home/hshen/workspace/P2Pgpac/gpac/applications/gipsi/snookerpuppy.mp4
+
+
+3. for peers("clients"):
+export PATH=$PATH:/home/hshen/workspace/P2Pgpac/gpac/bin/gcc/
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/hshen/workspace/P2Pgpac/gpac/bin/gcc/
+cd ~/workspace/P2Pgpac/gpac/applications/gipsi
+./gipsi cmd peer telpc33 30000
+
+
+
+
+4. test port
+../../../../Testing/UDPsocket/client/a.out telpc31 20000
+../../../../Testing/UDPsocket/server/a.out 20000
+

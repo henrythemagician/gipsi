@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/Projekte/P2Pgpac/!svn/ver/308/gipsi/src
+END
+ControlMessenger.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Projekte/P2Pgpac/!svn/ver/333/gipsi/src/ControlMessenger.h
+END
+MediaForwarder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Projekte/P2Pgpac/!svn/ver/321/gipsi/src/MediaForwarder.h
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Projekte/P2Pgpac/!svn/ver/259/gipsi/src/mainwindow.ui
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/Projekte/P2Pgpac/!svn/ver/298/gipsi/src/MainWindow.cpp
+END
+GipsiController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/Projekte/P2Pgpac/!svn/ver/318/gipsi/src/GipsiController.cpp
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/Projekte/P2Pgpac/!svn/ver/321/gipsi/src/MainWindow.h
+END
+Optimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Projekte/P2Pgpac/!svn/ver/318/gipsi/src/Optimizer.cpp
+END
+GipsiController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Projekte/P2Pgpac/!svn/ver/298/gipsi/src/GipsiController.h
+END
+Main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/Projekte/P2Pgpac/!svn/ver/316/gipsi/src/Main.cpp
+END
+Message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Projekte/P2Pgpac/!svn/ver/298/gipsi/src/Message.cpp
+END
+EnvironmentSettings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Projekte/P2Pgpac/!svn/ver/308/gipsi/src/EnvironmentSettings.cpp
+END
+Optimizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/Projekte/P2Pgpac/!svn/ver/321/gipsi/src/Optimizer.h
+END
+gipsi.pro
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Projekte/P2Pgpac/!svn/ver/297/gipsi/src/gipsi.pro
+END
+ControlMessenger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/Projekte/P2Pgpac/!svn/ver/337/gipsi/src/ControlMessenger.cpp
+END
+Message.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Projekte/P2Pgpac/!svn/ver/320/gipsi/src/Message.h
+END
+EnvironmentSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/Projekte/P2Pgpac/!svn/ver/318/gipsi/src/EnvironmentSettings.h
+END
+MediaForwarder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/Projekte/P2Pgpac/!svn/ver/333/gipsi/src/MediaForwarder.cpp
+END
